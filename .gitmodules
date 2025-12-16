@@ -1,3 +1,6 @@
 [submodule "market-exchange"]
 	path = market-exchange
 	url = https://github.com/smeh25/market-exchange.git
+[submodule "market-bots"]
+	path = market-bots
+	url = https://github.com/smeh25/market-bots.git
